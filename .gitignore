@@ -25,3 +25,10 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# IntelliJ
+*.iml
+.idea/
+
+# Mac OS
+.DS_Store
